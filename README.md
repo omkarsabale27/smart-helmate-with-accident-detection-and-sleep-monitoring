@@ -2,8 +2,6 @@
 Smart Helmet with Accident Detection and Sleep Monitoring System using Arduino UNO, MPU6050, IR Eye Blink Sensor, SIM800L GSM, and NEO-6M GPS. Detects rider drowsiness and accidents, sends real-time GPS location via SMS and call, improving road safety through an intelligent embedded system.
 # 🛡 Smart Helmet with Accident Detection and Sleep Monitoring System
 
-# 🛡 Smart Helmet with Accident Detection and Sleep Monitoring System
-
 ## 📖 Overview
 
 The Smart Helmet with Accident Detection and Sleep Monitoring System is an intelligent embedded system designed to improve the safety of motorcycle riders. The project continuously monitors rider alertness using an IR eye-blink sensor and detects accidents using a vibration sensor and MPU6050 accelerometer/gyroscope.
